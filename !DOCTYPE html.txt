@@ -2,21 +2,9 @@
 <html>
 <head>
   <title>Dorcas Library</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; }
-    h1 { color: darkblue; text-align: center; }
-    .book-list { margin-top: 30px; }
-    .book-item { background: white; padding: 10px; margin-bottom: 10px; border-radius: 5px; }
-  </style>
 </head>
 <body>
-  <h1>Welcome to Dorcas Library</h1>
-  <p style="text-align:center;">This is my online library website. Here are some books:</p>
-
-  <div class="book-list">
-    <div class="book-item">📘 English Form Two</div>
-    <div class="book-item">📗 Physics Form Two</div>
-    <div class="book-item">📕 Kiswahili Mid Term Assessment</div>
-  </div>
+  <h1>Welcome to Learn Hub</h1>
+  <p>This is my first library website published with GitHub Pages!</p>
 </body>
 </html>
