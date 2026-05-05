@@ -1,10 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Learn Hub Library</title>
+  <title>Books - Learn Hub</title>
 </head>
 <body>
-  <h1>Welcome to Learn Hub</h1>
-  <p>This is my online library website.</p>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About Us</a>
+    <a href="contact.html">Contact</a>
+    <a href="books.html">Books</a>
+  </nav>
+
+  <h1>Library Books</h1>
+  <p>Click on a book to open or download:</p>
+
+  <ul>
+    <li><a href="F2-KISWAHILI.pdf">📕 Kiswahili Mid Term Assessment</a></li>
+    <li><a href="Physics-F2.pdf">📗 Physics Form Two</a></li>
+    <li><a href="English-F2.pdf">📘 English Form Two</a></li>
+  </ul>
 </body>
 </html>
