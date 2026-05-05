@@ -1,16 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Contact - Learn Hub</title>
+  <title>Learn Hub Library</title>
 </head>
 <body>
-  <nav>
-    <a href="index.html">Home</a>
-    <a href="about.html">About Us</a>
-    <a href="contact.html">Contact</a>
-  </nav>
-
-  <h1>Contact Us</h1>
-  <p>You can reach Learn Hub at: dorcas@example.com</p>
+  <h1>Welcome to Learn Hub</h1>
+  <p>This is my online library website.</p>
 </body>
 </html>
