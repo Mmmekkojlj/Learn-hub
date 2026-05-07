@@ -1,0 +1,50 @@
+Learn-hub/
+│
+├── index.html        (Home page)
+├── about.html        (About Us page)
+├── contact.html      (Contact page)
+├── books.html        (Books page with links to PDFs)
+├── style.css         (Shared design file)
+└── /pdfs             (Folder for your uploaded books)
+      ├── kiswahili-f2.pdf
+      ├── mathematics-f2.pdf
+      └── business-studies-f2.pdf
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Learn-hub Library</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Welcome to Learn-hub</h1>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="about.html">About Us</a> |
+    <a href="books.html">Books</a> |
+    <a href="contact.html">Contact</a>
+  </nav>
+  <p>This is an online library for students in Tanga.</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Books - Learn-hub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Library Books</h1>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="about.html">About Us</a> |
+    <a href="books.html">Books</a> |
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <ul>
+    <li><a href="pdfs/kiswahili-f2.pdf">Kiswahili Form Two</a></li>
+    <li><a href="pdfs/mathematics-f2.pdf">Mathematics Exam & Answers</a></li>
+    <li><a href="pdfs/business-studies-f2.pdf">Business Studies Form Two</a></li>
+  </ul>
+</body>
+</html>
