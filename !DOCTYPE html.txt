@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Learn Hub - Books</title>
+  <title>Learn Hub - About Us</title>
   <style>
     body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 20px; }
     nav { background: darkblue; padding: 10px; }
     nav a { color: white; margin: 0 10px; text-decoration: none; }
     h1 { text-align: center; color: darkblue; }
-    .book-list { display: flex; flex-wrap: wrap; justify-content: center; }
-    .book { background: white; border: 1px solid #ccc; margin: 10px; padding: 15px; width: 250px; text-align: center; }
-    .book a { color: darkblue; text-decoration: none; font-weight: bold; }
+    .content { max-width: 700px; margin: auto; background: white; padding: 20px; border: 1px solid #ccc; }
   </style>
 </head>
 <body>
@@ -20,20 +18,14 @@
     <a href="contact.html">Contact</a>
   </nav>
 
-  <h1>Available Books</h1>
-  <div class="book-list">
-    <div class="book">
-      <h3>English Form Two</h3>
-      <a href="ENGLISH%20FORM%20TWO-NEW%20BOOK%20-%20WazaElimu.com.pdf" download>Download PDF</a>
-    </div>
-    <div class="book">
-      <h3>Kiswahili Form Two</h3>
-      <a href="kiswahili%20f2%20-%20WazaElimu.com.pdf" download>Download PDF</a>
-    </div>
-    <div class="book">
-      <h3>Business Studies Form Two</h3>
-      <a href="BUSINESS%20STUDIES%20FORM%20TWO.pdf" download>Download PDF</a>
-    </div>
+  <h1>About Learn Hub</h1>
+  <div class="content">
+    <p><strong>Learn Hub</strong> is an online library created to support students in Tanga, Tanzania. 
+    Our goal is to make educational resources easily accessible to everyone.</p>
+
+    <p>We provide textbooks, exam papers, and study materials in subjects such as English, Kiswahili, Mathematics, and Business Studies.</p>
+
+    <p>By sharing knowledge online, we hope to improve learning outcomes and encourage students to study anytime, anywhere.</p>
   </div>
 </body>
 </html>
