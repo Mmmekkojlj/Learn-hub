@@ -1,31 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Learn Hub - About Us</title>
-  <style>
-    body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 20px; }
-    nav { background: darkblue; padding: 10px; }
-    nav a { color: white; margin: 0 10px; text-decoration: none; }
-    h1 { text-align: center; color: darkblue; }
-    .content { max-width: 700px; margin: auto; background: white; padding: 20px; border: 1px solid #ccc; }
-  </style>
+  <title>Learn Hub</title>
 </head>
 <body>
-  <nav>
-    <a href="index.html">Home</a>
-    <a href="books.html">Books</a>
-    <a href="about.html">About Us</a>
-    <a href="contact.html">Contact</a>
-  </nav>
-
-  <h1>About Learn Hub</h1>
-  <div class="content">
-    <p><strong>Learn Hub</strong> is an online library created to support students in Tanga, Tanzania. 
-    Our goal is to make educational resources easily accessible to everyone.</p>
-
-    <p>We provide textbooks, exam papers, and study materials in subjects such as English, Kiswahili, Mathematics, and Business Studies.</p>
-
-    <p>By sharing knowledge online, we hope to improve learning outcomes and encourage students to study anytime, anywhere.</p>
-  </div>
+  <h1>Karibu Learn Hub</h1>
+  <p>Hii ni maktaba yako ya elimu.</p>
 </body>
 </html>
