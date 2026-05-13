@@ -2,22 +2,9 @@
 <html>
 <head>
   <title>Learn Hub</title>
-  <style>
-    body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 20px; }
-    nav { background: darkblue; padding: 10px; }
-    nav a { color: white; margin: 0 10px; text-decoration: none; }
-    h1 { text-align: center; color: darkblue; }
-  </style>
 </head>
 <body>
-  <nav>
-    <a href="index.html">Nyumbani</a>
-    <a href="books.html">Vitabu</a>
-    <a href="about.html">Kuhusu</a>
-    <a href="contact.html">Mawasiliano</a>
-  </nav>
-
   <h1>Karibu Learn Hub</h1>
-  <p style="text-align:center;">Hii ni maktaba ya mtandaoni kwa wanafunzi wa Tanga.</p>
+  <p>Hii ni maktaba yako ya mtandaoni.</p>
 </body>
 </html>
