@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>Learn-hub</title>
+  </head>
+  <body>
+    <h1>Welcome to Learn-hub</h1>
+    <p>This is the homepage of your site.</p>
+  </body>
+</html>
